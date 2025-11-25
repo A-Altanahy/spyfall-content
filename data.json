@@ -2,6 +2,497 @@
   "version": 1,
   "categories": [
     {
+      "id": "animals",
+      "images": [
+        {
+          "id": "animals_1",
+          "file": "content/animals/animals_1.png"
+        },
+        {
+          "id": "animals_10",
+          "file": "content/animals/animals_10.png"
+        },
+        {
+          "id": "animals_11",
+          "file": "content/animals/animals_11.png"
+        },
+        {
+          "id": "animals_12",
+          "file": "content/animals/animals_12.png"
+        },
+        {
+          "id": "animals_13",
+          "file": "content/animals/animals_13.png"
+        },
+        {
+          "id": "animals_14",
+          "file": "content/animals/animals_14.png"
+        },
+        {
+          "id": "animals_15",
+          "file": "content/animals/animals_15.png"
+        },
+        {
+          "id": "animals_16",
+          "file": "content/animals/animals_16.png"
+        },
+        {
+          "id": "animals_17",
+          "file": "content/animals/animals_17.png"
+        },
+        {
+          "id": "animals_18",
+          "file": "content/animals/animals_18.png"
+        },
+        {
+          "id": "animals_19",
+          "file": "content/animals/animals_19.png"
+        },
+        {
+          "id": "animals_2",
+          "file": "content/animals/animals_2.png"
+        },
+        {
+          "id": "animals_20",
+          "file": "content/animals/animals_20.png"
+        },
+        {
+          "id": "animals_21",
+          "file": "content/animals/animals_21.png"
+        },
+        {
+          "id": "animals_22",
+          "file": "content/animals/animals_22.png"
+        },
+        {
+          "id": "animals_23",
+          "file": "content/animals/animals_23.png"
+        },
+        {
+          "id": "animals_24",
+          "file": "content/animals/animals_24.png"
+        },
+        {
+          "id": "animals_25",
+          "file": "content/animals/animals_25.png"
+        },
+        {
+          "id": "animals_26",
+          "file": "content/animals/animals_26.png"
+        },
+        {
+          "id": "animals_27",
+          "file": "content/animals/animals_27.png"
+        },
+        {
+          "id": "animals_3",
+          "file": "content/animals/animals_3.png"
+        },
+        {
+          "id": "animals_4",
+          "file": "content/animals/animals_4.png"
+        },
+        {
+          "id": "animals_5",
+          "file": "content/animals/animals_5.png"
+        },
+        {
+          "id": "animals_6",
+          "file": "content/animals/animals_6.png"
+        },
+        {
+          "id": "animals_7",
+          "file": "content/animals/animals_7.png"
+        },
+        {
+          "id": "animals_8",
+          "file": "content/animals/animals_8.png"
+        },
+        {
+          "id": "animals_9",
+          "file": "content/animals/animals_9.png"
+        }
+      ]
+    },
+    {
+      "id": "category_6",
+      "images": [
+        {
+          "id": "category_6_1",
+          "file": "content/category_6/category_6_1.png"
+        },
+        {
+          "id": "category_6_10",
+          "file": "content/category_6/category_6_10.png"
+        },
+        {
+          "id": "category_6_11",
+          "file": "content/category_6/category_6_11.png"
+        },
+        {
+          "id": "category_6_12",
+          "file": "content/category_6/category_6_12.png"
+        },
+        {
+          "id": "category_6_13",
+          "file": "content/category_6/category_6_13.png"
+        },
+        {
+          "id": "category_6_14",
+          "file": "content/category_6/category_6_14.png"
+        },
+        {
+          "id": "category_6_15",
+          "file": "content/category_6/category_6_15.png"
+        },
+        {
+          "id": "category_6_16",
+          "file": "content/category_6/category_6_16.png"
+        },
+        {
+          "id": "category_6_17",
+          "file": "content/category_6/category_6_17.png"
+        },
+        {
+          "id": "category_6_18",
+          "file": "content/category_6/category_6_18.png"
+        },
+        {
+          "id": "category_6_19",
+          "file": "content/category_6/category_6_19.png"
+        },
+        {
+          "id": "category_6_2",
+          "file": "content/category_6/category_6_2.png"
+        },
+        {
+          "id": "category_6_20",
+          "file": "content/category_6/category_6_20.png"
+        },
+        {
+          "id": "category_6_21",
+          "file": "content/category_6/category_6_21.png"
+        },
+        {
+          "id": "category_6_22",
+          "file": "content/category_6/category_6_22.png"
+        },
+        {
+          "id": "category_6_23",
+          "file": "content/category_6/category_6_23.png"
+        },
+        {
+          "id": "category_6_24",
+          "file": "content/category_6/category_6_24.png"
+        },
+        {
+          "id": "category_6_25",
+          "file": "content/category_6/category_6_25.png"
+        },
+        {
+          "id": "category_6_26",
+          "file": "content/category_6/category_6_26.png"
+        },
+        {
+          "id": "category_6_27",
+          "file": "content/category_6/category_6_27.png"
+        },
+        {
+          "id": "category_6_28",
+          "file": "content/category_6/category_6_28.png"
+        },
+        {
+          "id": "category_6_29",
+          "file": "content/category_6/category_6_29.png"
+        },
+        {
+          "id": "category_6_3",
+          "file": "content/category_6/category_6_3.png"
+        },
+        {
+          "id": "category_6_30",
+          "file": "content/category_6/category_6_30.png"
+        },
+        {
+          "id": "category_6_31",
+          "file": "content/category_6/category_6_31.png"
+        },
+        {
+          "id": "category_6_32",
+          "file": "content/category_6/category_6_32.png"
+        },
+        {
+          "id": "category_6_33",
+          "file": "content/category_6/category_6_33.png"
+        },
+        {
+          "id": "category_6_34",
+          "file": "content/category_6/category_6_34.png"
+        },
+        {
+          "id": "category_6_35",
+          "file": "content/category_6/category_6_35.png"
+        },
+        {
+          "id": "category_6_36",
+          "file": "content/category_6/category_6_36.png"
+        },
+        {
+          "id": "category_6_37",
+          "file": "content/category_6/category_6_37.png"
+        },
+        {
+          "id": "category_6_38",
+          "file": "content/category_6/category_6_38.png"
+        },
+        {
+          "id": "category_6_39",
+          "file": "content/category_6/category_6_39.png"
+        },
+        {
+          "id": "category_6_4",
+          "file": "content/category_6/category_6_4.png"
+        },
+        {
+          "id": "category_6_40",
+          "file": "content/category_6/category_6_40.png"
+        },
+        {
+          "id": "category_6_41",
+          "file": "content/category_6/category_6_41.png"
+        },
+        {
+          "id": "category_6_42",
+          "file": "content/category_6/category_6_42.png"
+        },
+        {
+          "id": "category_6_43",
+          "file": "content/category_6/category_6_43.png"
+        },
+        {
+          "id": "category_6_44",
+          "file": "content/category_6/category_6_44.png"
+        },
+        {
+          "id": "category_6_45",
+          "file": "content/category_6/category_6_45.png"
+        },
+        {
+          "id": "category_6_46",
+          "file": "content/category_6/category_6_46.png"
+        },
+        {
+          "id": "category_6_47",
+          "file": "content/category_6/category_6_47.png"
+        },
+        {
+          "id": "category_6_48",
+          "file": "content/category_6/category_6_48.png"
+        },
+        {
+          "id": "category_6_49",
+          "file": "content/category_6/category_6_49.png"
+        },
+        {
+          "id": "category_6_5",
+          "file": "content/category_6/category_6_5.png"
+        },
+        {
+          "id": "category_6_50",
+          "file": "content/category_6/category_6_50.png"
+        },
+        {
+          "id": "category_6_51",
+          "file": "content/category_6/category_6_51.png"
+        },
+        {
+          "id": "category_6_52",
+          "file": "content/category_6/category_6_52.png"
+        },
+        {
+          "id": "category_6_53",
+          "file": "content/category_6/category_6_53.png"
+        },
+        {
+          "id": "category_6_54",
+          "file": "content/category_6/category_6_54.png"
+        },
+        {
+          "id": "category_6_55",
+          "file": "content/category_6/category_6_55.png"
+        },
+        {
+          "id": "category_6_56",
+          "file": "content/category_6/category_6_56.png"
+        },
+        {
+          "id": "category_6_57",
+          "file": "content/category_6/category_6_57.png"
+        },
+        {
+          "id": "category_6_58",
+          "file": "content/category_6/category_6_58.png"
+        },
+        {
+          "id": "category_6_59",
+          "file": "content/category_6/category_6_59.png"
+        },
+        {
+          "id": "category_6_6",
+          "file": "content/category_6/category_6_6.png"
+        },
+        {
+          "id": "category_6_60",
+          "file": "content/category_6/category_6_60.png"
+        },
+        {
+          "id": "category_6_7",
+          "file": "content/category_6/category_6_7.png"
+        },
+        {
+          "id": "category_6_8",
+          "file": "content/category_6/category_6_8.png"
+        },
+        {
+          "id": "category_6_9",
+          "file": "content/category_6/category_6_9.png"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "images": [
+        {
+          "id": "food_1",
+          "file": "content/food/food_1.png"
+        },
+        {
+          "id": "food_10",
+          "file": "content/food/food_10.png"
+        },
+        {
+          "id": "food_11",
+          "file": "content/food/food_11.png"
+        },
+        {
+          "id": "food_12",
+          "file": "content/food/food_12.png"
+        },
+        {
+          "id": "food_13",
+          "file": "content/food/food_13.png"
+        },
+        {
+          "id": "food_14",
+          "file": "content/food/food_14.png"
+        },
+        {
+          "id": "food_15",
+          "file": "content/food/food_15.png"
+        },
+        {
+          "id": "food_16",
+          "file": "content/food/food_16.png"
+        },
+        {
+          "id": "food_17",
+          "file": "content/food/food_17.png"
+        },
+        {
+          "id": "food_18",
+          "file": "content/food/food_18.png"
+        },
+        {
+          "id": "food_19",
+          "file": "content/food/food_19.png"
+        },
+        {
+          "id": "food_2",
+          "file": "content/food/food_2.png"
+        },
+        {
+          "id": "food_20",
+          "file": "content/food/food_20.png"
+        },
+        {
+          "id": "food_21",
+          "file": "content/food/food_21.png"
+        },
+        {
+          "id": "food_22",
+          "file": "content/food/food_22.png"
+        },
+        {
+          "id": "food_23",
+          "file": "content/food/food_23.png"
+        },
+        {
+          "id": "food_24",
+          "file": "content/food/food_24.png"
+        },
+        {
+          "id": "food_25",
+          "file": "content/food/food_25.png"
+        },
+        {
+          "id": "food_26",
+          "file": "content/food/food_26.png"
+        },
+        {
+          "id": "food_27",
+          "file": "content/food/food_27.png"
+        },
+        {
+          "id": "food_28",
+          "file": "content/food/food_28.png"
+        },
+        {
+          "id": "food_29",
+          "file": "content/food/food_29.png"
+        },
+        {
+          "id": "food_3",
+          "file": "content/food/food_3.png"
+        },
+        {
+          "id": "food_30",
+          "file": "content/food/food_30.png"
+        },
+        {
+          "id": "food_31",
+          "file": "content/food/food_31.png"
+        },
+        {
+          "id": "food_32",
+          "file": "content/food/food_32.png"
+        },
+        {
+          "id": "food_4",
+          "file": "content/food/food_4.png"
+        },
+        {
+          "id": "food_5",
+          "file": "content/food/food_5.png"
+        },
+        {
+          "id": "food_6",
+          "file": "content/food/food_6.png"
+        },
+        {
+          "id": "food_7",
+          "file": "content/food/food_7.png"
+        },
+        {
+          "id": "food_8",
+          "file": "content/food/food_8.png"
+        },
+        {
+          "id": "food_9",
+          "file": "content/food/food_9.png"
+        }
+      ]
+    },
+    {
       "id": "jobs",
       "images": [
         {
@@ -14,8 +505,165 @@
       "id": "locations",
       "images": [
         {
+          "id": "beach",
+          "file": "content/locations/beach.png"
+        },
+        {
+          "id": "locations_1",
+          "file": "content/locations/locations_1.png"
+        },
+        {
+          "id": "locations_10",
+          "file": "content/locations/locations_10.png"
+        },
+        {
+          "id": "locations_11",
+          "file": "content/locations/locations_11.png"
+        },
+        {
+          "id": "locations_12",
+          "file": "content/locations/locations_12.png"
+        },
+        {
+          "id": "locations_13",
+          "file": "content/locations/locations_13.png"
+        },
+        {
+          "id": "locations_14",
+          "file": "content/locations/locations_14.png"
+        },
+        {
+          "id": "locations_15",
+          "file": "content/locations/locations_15.png"
+        },
+        {
+          "id": "locations_16",
+          "file": "content/locations/locations_16.png"
+        },
+        {
+          "id": "locations_17",
+          "file": "content/locations/locations_17.png"
+        },
+        {
+          "id": "locations_18",
+          "file": "content/locations/locations_18.png"
+        },
+        {
+          "id": "locations_2",
+          "file": "content/locations/locations_2.png"
+        },
+        {
+          "id": "locations_3",
+          "file": "content/locations/locations_3.png"
+        },
+        {
+          "id": "locations_4",
+          "file": "content/locations/locations_4.png"
+        },
+        {
+          "id": "locations_5",
+          "file": "content/locations/locations_5.png"
+        },
+        {
+          "id": "locations_6",
+          "file": "content/locations/locations_6.png"
+        },
+        {
+          "id": "locations_7",
+          "file": "content/locations/locations_7.png"
+        },
+        {
+          "id": "locations_8",
+          "file": "content/locations/locations_8.png"
+        },
+        {
+          "id": "locations_9",
+          "file": "content/locations/locations_9.png"
+        },
+        {
           "id": "school",
           "file": "content/locations/school.jpg"
+        },
+        {
+          "id": "school",
+          "file": "content/locations/school.png"
+        }
+      ]
+    },
+    {
+      "id": "vehicles",
+      "images": [
+        {
+          "id": "vehicles_1",
+          "file": "content/vehicles/vehicles_1.png"
+        },
+        {
+          "id": "vehicles_10",
+          "file": "content/vehicles/vehicles_10.png"
+        },
+        {
+          "id": "vehicles_11",
+          "file": "content/vehicles/vehicles_11.png"
+        },
+        {
+          "id": "vehicles_12",
+          "file": "content/vehicles/vehicles_12.png"
+        },
+        {
+          "id": "vehicles_13",
+          "file": "content/vehicles/vehicles_13.png"
+        },
+        {
+          "id": "vehicles_14",
+          "file": "content/vehicles/vehicles_14.png"
+        },
+        {
+          "id": "vehicles_15",
+          "file": "content/vehicles/vehicles_15.png"
+        },
+        {
+          "id": "vehicles_16",
+          "file": "content/vehicles/vehicles_16.png"
+        },
+        {
+          "id": "vehicles_17",
+          "file": "content/vehicles/vehicles_17.png"
+        },
+        {
+          "id": "vehicles_18",
+          "file": "content/vehicles/vehicles_18.png"
+        },
+        {
+          "id": "vehicles_2",
+          "file": "content/vehicles/vehicles_2.png"
+        },
+        {
+          "id": "vehicles_3",
+          "file": "content/vehicles/vehicles_3.png"
+        },
+        {
+          "id": "vehicles_4",
+          "file": "content/vehicles/vehicles_4.png"
+        },
+        {
+          "id": "vehicles_5",
+          "file": "content/vehicles/vehicles_5.png"
+        },
+        {
+          "id": "vehicles_6",
+          "file": "content/vehicles/vehicles_6.png"
+        },
+        {
+          "id": "vehicles_7",
+          "file": "content/vehicles/vehicles_7.png"
+        },
+        {
+          "id": "vehicles_8",
+          "file": "content/vehicles/vehicles_8.png"
+        },
+        {
+          "id": "vehicles_9",
+          "file": "content/vehicles/vehicles_9.png"
         }
       ]
     }
