@@ -5,357 +5,112 @@
       "id": "animals",
       "images": [
         {
-          "id": "animals_1",
-          "file": "content/animals/animals_1.png"
+          "id": "bat",
+          "file": "content/animals/bat.png"
         },
         {
-          "id": "animals_10",
-          "file": "content/animals/animals_10.png"
+          "id": "bee",
+          "file": "content/animals/bee.png"
         },
         {
-          "id": "animals_11",
-          "file": "content/animals/animals_11.png"
+          "id": "cat",
+          "file": "content/animals/cat.png"
         },
         {
-          "id": "animals_12",
-          "file": "content/animals/animals_12.png"
+          "id": "chicken",
+          "file": "content/animals/chicken.png"
         },
         {
-          "id": "animals_13",
-          "file": "content/animals/animals_13.png"
+          "id": "cockroach",
+          "file": "content/animals/cockroach.png"
         },
         {
-          "id": "animals_14",
-          "file": "content/animals/animals_14.png"
+          "id": "cow",
+          "file": "content/animals/cow.png"
         },
         {
-          "id": "animals_15",
-          "file": "content/animals/animals_15.png"
+          "id": "crab",
+          "file": "content/animals/crab.png"
         },
         {
-          "id": "animals_16",
-          "file": "content/animals/animals_16.png"
+          "id": "crocodile",
+          "file": "content/animals/crocodile.png"
         },
         {
-          "id": "animals_17",
-          "file": "content/animals/animals_17.png"
+          "id": "dog",
+          "file": "content/animals/dog.png"
         },
         {
-          "id": "animals_18",
-          "file": "content/animals/animals_18.png"
+          "id": "dolphin",
+          "file": "content/animals/dolphin.png"
         },
         {
-          "id": "animals_19",
-          "file": "content/animals/animals_19.png"
+          "id": "donkey",
+          "file": "content/animals/donkey.png"
         },
         {
-          "id": "animals_2",
-          "file": "content/animals/animals_2.png"
+          "id": "elephant",
+          "file": "content/animals/elephant.png"
         },
         {
-          "id": "animals_20",
-          "file": "content/animals/animals_20.png"
+          "id": "fish",
+          "file": "content/animals/fish.png"
         },
         {
-          "id": "animals_21",
-          "file": "content/animals/animals_21.png"
+          "id": "fly",
+          "file": "content/animals/fly.png"
         },
         {
-          "id": "animals_22",
-          "file": "content/animals/animals_22.png"
+          "id": "frog",
+          "file": "content/animals/frog.png"
         },
         {
-          "id": "animals_23",
-          "file": "content/animals/animals_23.png"
+          "id": "giraffe",
+          "file": "content/animals/giraffe.png"
         },
         {
-          "id": "animals_24",
-          "file": "content/animals/animals_24.png"
+          "id": "horse",
+          "file": "content/animals/horse.png"
         },
         {
-          "id": "animals_25",
-          "file": "content/animals/animals_25.png"
+          "id": "monkey",
+          "file": "content/animals/monkey.png"
         },
         {
-          "id": "animals_26",
-          "file": "content/animals/animals_26.png"
+          "id": "mouse",
+          "file": "content/animals/mouse.png"
         },
         {
-          "id": "animals_27",
-          "file": "content/animals/animals_27.png"
+          "id": "octopus",
+          "file": "content/animals/octopus.png"
         },
         {
-          "id": "animals_3",
-          "file": "content/animals/animals_3.png"
+          "id": "rabbit",
+          "file": "content/animals/rabbit.png"
         },
         {
-          "id": "animals_4",
-          "file": "content/animals/animals_4.png"
+          "id": "rooster",
+          "file": "content/animals/rooster.png"
         },
         {
-          "id": "animals_5",
-          "file": "content/animals/animals_5.png"
+          "id": "scorpion",
+          "file": "content/animals/scorpion.png"
         },
         {
-          "id": "animals_6",
-          "file": "content/animals/animals_6.png"
+          "id": "snake",
+          "file": "content/animals/snake.png"
         },
         {
-          "id": "animals_7",
-          "file": "content/animals/animals_7.png"
+          "id": "tiger",
+          "file": "content/animals/tiger.png"
         },
         {
-          "id": "animals_8",
-          "file": "content/animals/animals_8.png"
+          "id": "turtle",
+          "file": "content/animals/turtle.png"
         },
         {
-          "id": "animals_9",
-          "file": "content/animals/animals_9.png"
-        }
-      ]
-    },
-    {
-      "id": "category_6",
-      "images": [
-        {
-          "id": "category_6_1",
-          "file": "content/category_6/category_6_1.png"
-        },
-        {
-          "id": "category_6_10",
-          "file": "content/category_6/category_6_10.png"
-        },
-        {
-          "id": "category_6_11",
-          "file": "content/category_6/category_6_11.png"
-        },
-        {
-          "id": "category_6_12",
-          "file": "content/category_6/category_6_12.png"
-        },
-        {
-          "id": "category_6_13",
-          "file": "content/category_6/category_6_13.png"
-        },
-        {
-          "id": "category_6_14",
-          "file": "content/category_6/category_6_14.png"
-        },
-        {
-          "id": "category_6_15",
-          "file": "content/category_6/category_6_15.png"
-        },
-        {
-          "id": "category_6_16",
-          "file": "content/category_6/category_6_16.png"
-        },
-        {
-          "id": "category_6_17",
-          "file": "content/category_6/category_6_17.png"
-        },
-        {
-          "id": "category_6_18",
-          "file": "content/category_6/category_6_18.png"
-        },
-        {
-          "id": "category_6_19",
-          "file": "content/category_6/category_6_19.png"
-        },
-        {
-          "id": "category_6_2",
-          "file": "content/category_6/category_6_2.png"
-        },
-        {
-          "id": "category_6_20",
-          "file": "content/category_6/category_6_20.png"
-        },
-        {
-          "id": "category_6_21",
-          "file": "content/category_6/category_6_21.png"
-        },
-        {
-          "id": "category_6_22",
-          "file": "content/category_6/category_6_22.png"
-        },
-        {
-          "id": "category_6_23",
-          "file": "content/category_6/category_6_23.png"
-        },
-        {
-          "id": "category_6_24",
-          "file": "content/category_6/category_6_24.png"
-        },
-        {
-          "id": "category_6_25",
-          "file": "content/category_6/category_6_25.png"
-        },
-        {
-          "id": "category_6_26",
-          "file": "content/category_6/category_6_26.png"
-        },
-        {
-          "id": "category_6_27",
-          "file": "content/category_6/category_6_27.png"
-        },
-        {
-          "id": "category_6_28",
-          "file": "content/category_6/category_6_28.png"
-        },
-        {
-          "id": "category_6_29",
-          "file": "content/category_6/category_6_29.png"
-        },
-        {
-          "id": "category_6_3",
-          "file": "content/category_6/category_6_3.png"
-        },
-        {
-          "id": "category_6_30",
-          "file": "content/category_6/category_6_30.png"
-        },
-        {
-          "id": "category_6_31",
-          "file": "content/category_6/category_6_31.png"
-        },
-        {
-          "id": "category_6_32",
-          "file": "content/category_6/category_6_32.png"
-        },
-        {
-          "id": "category_6_33",
-          "file": "content/category_6/category_6_33.png"
-        },
-        {
-          "id": "category_6_34",
-          "file": "content/category_6/category_6_34.png"
-        },
-        {
-          "id": "category_6_35",
-          "file": "content/category_6/category_6_35.png"
-        },
-        {
-          "id": "category_6_36",
-          "file": "content/category_6/category_6_36.png"
-        },
-        {
-          "id": "category_6_37",
-          "file": "content/category_6/category_6_37.png"
-        },
-        {
-          "id": "category_6_38",
-          "file": "content/category_6/category_6_38.png"
-        },
-        {
-          "id": "category_6_39",
-          "file": "content/category_6/category_6_39.png"
-        },
-        {
-          "id": "category_6_4",
-          "file": "content/category_6/category_6_4.png"
-        },
-        {
-          "id": "category_6_40",
-          "file": "content/category_6/category_6_40.png"
-        },
-        {
-          "id": "category_6_41",
-          "file": "content/category_6/category_6_41.png"
-        },
-        {
-          "id": "category_6_42",
-          "file": "content/category_6/category_6_42.png"
-        },
-        {
-          "id": "category_6_43",
-          "file": "content/category_6/category_6_43.png"
-        },
-        {
-          "id": "category_6_44",
-          "file": "content/category_6/category_6_44.png"
-        },
-        {
-          "id": "category_6_45",
-          "file": "content/category_6/category_6_45.png"
-        },
-        {
-          "id": "category_6_46",
-          "file": "content/category_6/category_6_46.png"
-        },
-        {
-          "id": "category_6_47",
-          "file": "content/category_6/category_6_47.png"
-        },
-        {
-          "id": "category_6_48",
-          "file": "content/category_6/category_6_48.png"
-        },
-        {
-          "id": "category_6_49",
-          "file": "content/category_6/category_6_49.png"
-        },
-        {
-          "id": "category_6_5",
-          "file": "content/category_6/category_6_5.png"
-        },
-        {
-          "id": "category_6_50",
-          "file": "content/category_6/category_6_50.png"
-        },
-        {
-          "id": "category_6_51",
-          "file": "content/category_6/category_6_51.png"
-        },
-        {
-          "id": "category_6_52",
-          "file": "content/category_6/category_6_52.png"
-        },
-        {
-          "id": "category_6_53",
-          "file": "content/category_6/category_6_53.png"
-        },
-        {
-          "id": "category_6_54",
-          "file": "content/category_6/category_6_54.png"
-        },
-        {
-          "id": "category_6_55",
-          "file": "content/category_6/category_6_55.png"
-        },
-        {
-          "id": "category_6_56",
-          "file": "content/category_6/category_6_56.png"
-        },
-        {
-          "id": "category_6_57",
-          "file": "content/category_6/category_6_57.png"
-        },
-        {
-          "id": "category_6_58",
-          "file": "content/category_6/category_6_58.png"
-        },
-        {
-          "id": "category_6_59",
-          "file": "content/category_6/category_6_59.png"
-        },
-        {
-          "id": "category_6_6",
-          "file": "content/category_6/category_6_6.png"
-        },
-        {
-          "id": "category_6_60",
-          "file": "content/category_6/category_6_60.png"
-        },
-        {
-          "id": "category_6_7",
-          "file": "content/category_6/category_6_7.png"
-        },
-        {
-          "id": "category_6_8",
-          "file": "content/category_6/category_6_8.png"
-        },
-        {
-          "id": "category_6_9",
-          "file": "content/category_6/category_6_9.png"
+          "id": "whale",
+          "file": "content/animals/whale.png"
         }
       ]
     },
@@ -363,132 +118,132 @@
       "id": "food",
       "images": [
         {
-          "id": "food_1",
-          "file": "content/food/food_1.png"
+          "id": "apple",
+          "file": "content/food/apple.png"
         },
         {
-          "id": "food_10",
-          "file": "content/food/food_10.png"
+          "id": "avocado",
+          "file": "content/food/avocado.png"
         },
         {
-          "id": "food_11",
-          "file": "content/food/food_11.png"
+          "id": "banana",
+          "file": "content/food/banana.png"
         },
         {
-          "id": "food_12",
-          "file": "content/food/food_12.png"
+          "id": "biscuit",
+          "file": "content/food/biscuit.png"
         },
         {
-          "id": "food_13",
-          "file": "content/food/food_13.png"
+          "id": "burger",
+          "file": "content/food/burger.png"
         },
         {
-          "id": "food_14",
-          "file": "content/food/food_14.png"
+          "id": "carrot",
+          "file": "content/food/carrot.png"
         },
         {
-          "id": "food_15",
-          "file": "content/food/food_15.png"
+          "id": "cherry",
+          "file": "content/food/cherry.png"
         },
         {
-          "id": "food_16",
-          "file": "content/food/food_16.png"
+          "id": "coconut",
+          "file": "content/food/coconut.png"
         },
         {
-          "id": "food_17",
-          "file": "content/food/food_17.png"
+          "id": "coffee",
+          "file": "content/food/coffee.png"
         },
         {
-          "id": "food_18",
-          "file": "content/food/food_18.png"
+          "id": "croissant",
+          "file": "content/food/croissant.png"
         },
         {
-          "id": "food_19",
-          "file": "content/food/food_19.png"
+          "id": "dates",
+          "file": "content/food/dates.png"
         },
         {
-          "id": "food_2",
-          "file": "content/food/food_2.png"
+          "id": "egg",
+          "file": "content/food/egg.png"
         },
         {
-          "id": "food_20",
-          "file": "content/food/food_20.png"
+          "id": "fried_chicken",
+          "file": "content/food/fried_chicken.png"
         },
         {
-          "id": "food_21",
-          "file": "content/food/food_21.png"
+          "id": "fries",
+          "file": "content/food/fries.png"
         },
         {
-          "id": "food_22",
-          "file": "content/food/food_22.png"
+          "id": "grapes",
+          "file": "content/food/grapes.png"
         },
         {
-          "id": "food_23",
-          "file": "content/food/food_23.png"
+          "id": "honey",
+          "file": "content/food/honey.png"
         },
         {
-          "id": "food_24",
-          "file": "content/food/food_24.png"
+          "id": "indomie",
+          "file": "content/food/indomie.png"
         },
         {
-          "id": "food_25",
-          "file": "content/food/food_25.png"
+          "id": "juice",
+          "file": "content/food/juice.png"
         },
         {
-          "id": "food_26",
-          "file": "content/food/food_26.png"
+          "id": "kiwi",
+          "file": "content/food/kiwi.png"
         },
         {
-          "id": "food_27",
-          "file": "content/food/food_27.png"
+          "id": "lemon",
+          "file": "content/food/lemon.png"
         },
         {
-          "id": "food_28",
-          "file": "content/food/food_28.png"
+          "id": "mango",
+          "file": "content/food/mango.png"
         },
         {
-          "id": "food_29",
-          "file": "content/food/food_29.png"
+          "id": "melon",
+          "file": "content/food/melon.png"
         },
         {
-          "id": "food_3",
-          "file": "content/food/food_3.png"
+          "id": "orange",
+          "file": "content/food/orange.png"
         },
         {
-          "id": "food_30",
-          "file": "content/food/food_30.png"
+          "id": "pineapple",
+          "file": "content/food/pineapple.png"
         },
         {
-          "id": "food_31",
-          "file": "content/food/food_31.png"
+          "id": "pizza",
+          "file": "content/food/pizza.png"
         },
         {
-          "id": "food_32",
-          "file": "content/food/food_32.png"
+          "id": "pomegranate",
+          "file": "content/food/pomegranate.png"
         },
         {
-          "id": "food_4",
-          "file": "content/food/food_4.png"
+          "id": "shawarma",
+          "file": "content/food/shawarma.png"
         },
         {
-          "id": "food_5",
-          "file": "content/food/food_5.png"
+          "id": "soda",
+          "file": "content/food/soda.png"
         },
         {
-          "id": "food_6",
-          "file": "content/food/food_6.png"
+          "id": "strawberry",
+          "file": "content/food/strawberry.png"
         },
         {
-          "id": "food_7",
-          "file": "content/food/food_7.png"
+          "id": "sushi",
+          "file": "content/food/sushi.png"
         },
         {
-          "id": "food_8",
-          "file": "content/food/food_8.png"
+          "id": "tea",
+          "file": "content/food/tea.png"
         },
         {
-          "id": "food_9",
-          "file": "content/food/food_9.png"
+          "id": "watermelon",
+          "file": "content/food/watermelon.png"
         }
       ]
     },
@@ -505,80 +260,80 @@
       "id": "locations",
       "images": [
         {
+          "id": "airport",
+          "file": "content/locations/airport.png"
+        },
+        {
+          "id": "bank",
+          "file": "content/locations/bank.png"
+        },
+        {
+          "id": "barber_shop",
+          "file": "content/locations/barber_shop.png"
+        },
+        {
           "id": "beach",
           "file": "content/locations/beach.png"
         },
         {
-          "id": "locations_1",
-          "file": "content/locations/locations_1.png"
+          "id": "castle",
+          "file": "content/locations/castle.png"
         },
         {
-          "id": "locations_10",
-          "file": "content/locations/locations_10.png"
+          "id": "court",
+          "file": "content/locations/court.png"
         },
         {
-          "id": "locations_11",
-          "file": "content/locations/locations_11.png"
+          "id": "desert",
+          "file": "content/locations/desert.png"
         },
         {
-          "id": "locations_12",
-          "file": "content/locations/locations_12.png"
+          "id": "forest",
+          "file": "content/locations/forest.png"
         },
         {
-          "id": "locations_13",
-          "file": "content/locations/locations_13.png"
+          "id": "hospital",
+          "file": "content/locations/hospital.png"
         },
         {
-          "id": "locations_14",
-          "file": "content/locations/locations_14.png"
+          "id": "kaaba",
+          "file": "content/locations/kaaba.png"
         },
         {
-          "id": "locations_15",
-          "file": "content/locations/locations_15.png"
+          "id": "mosque",
+          "file": "content/locations/mosque.png"
         },
         {
-          "id": "locations_16",
-          "file": "content/locations/locations_16.png"
+          "id": "palm_tree",
+          "file": "content/locations/palm_tree.png"
         },
         {
-          "id": "locations_17",
-          "file": "content/locations/locations_17.png"
+          "id": "park",
+          "file": "content/locations/park.png"
         },
         {
-          "id": "locations_18",
-          "file": "content/locations/locations_18.png"
+          "id": "pharmacy",
+          "file": "content/locations/pharmacy.png"
         },
         {
-          "id": "locations_2",
-          "file": "content/locations/locations_2.png"
+          "id": "police_station",
+          "file": "content/locations/police_station.png"
         },
         {
-          "id": "locations_3",
-          "file": "content/locations/locations_3.png"
+          "id": "pool",
+          "file": "content/locations/pool.png"
         },
         {
-          "id": "locations_4",
-          "file": "content/locations/locations_4.png"
+          "id": "pyramids",
+          "file": "content/locations/pyramids.png"
         },
         {
-          "id": "locations_5",
-          "file": "content/locations/locations_5.png"
+          "id": "restaurant",
+          "file": "content/locations/restaurant.png"
         },
         {
-          "id": "locations_6",
-          "file": "content/locations/locations_6.png"
-        },
-        {
-          "id": "locations_7",
-          "file": "content/locations/locations_7.png"
-        },
-        {
-          "id": "locations_8",
-          "file": "content/locations/locations_8.png"
-        },
-        {
-          "id": "locations_9",
-          "file": "content/locations/locations_9.png"
+          "id": "river",
+          "file": "content/locations/river.png"
         },
         {
           "id": "school",
@@ -591,79 +346,324 @@
       ]
     },
     {
+      "id": "objects",
+      "images": [
+        {
+          "id": "ac",
+          "file": "content/objects/ac.png"
+        },
+        {
+          "id": "anchor",
+          "file": "content/objects/anchor.png"
+        },
+        {
+          "id": "backpack",
+          "file": "content/objects/backpack.png"
+        },
+        {
+          "id": "basketball",
+          "file": "content/objects/basketball.png"
+        },
+        {
+          "id": "bed",
+          "file": "content/objects/bed.png"
+        },
+        {
+          "id": "blender",
+          "file": "content/objects/blender.png"
+        },
+        {
+          "id": "book",
+          "file": "content/objects/book.png"
+        },
+        {
+          "id": "bridge",
+          "file": "content/objects/bridge.png"
+        },
+        {
+          "id": "calculator",
+          "file": "content/objects/calculator.png"
+        },
+        {
+          "id": "camera",
+          "file": "content/objects/camera.png"
+        },
+        {
+          "id": "carpet",
+          "file": "content/objects/carpet.png"
+        },
+        {
+          "id": "chair",
+          "file": "content/objects/chair.png"
+        },
+        {
+          "id": "charger",
+          "file": "content/objects/charger.png"
+        },
+        {
+          "id": "controller",
+          "file": "content/objects/controller.png"
+        },
+        {
+          "id": "curtain",
+          "file": "content/objects/curtain.png"
+        },
+        {
+          "id": "elevator",
+          "file": "content/objects/elevator.png"
+        },
+        {
+          "id": "flag",
+          "file": "content/objects/flag.png"
+        },
+        {
+          "id": "flashlight",
+          "file": "content/objects/flashlight.png"
+        },
+        {
+          "id": "football",
+          "file": "content/objects/football.png"
+        },
+        {
+          "id": "fridge",
+          "file": "content/objects/fridge.png"
+        },
+        {
+          "id": "glasses",
+          "file": "content/objects/glasses.png"
+        },
+        {
+          "id": "hammer",
+          "file": "content/objects/hammer.png"
+        },
+        {
+          "id": "headphone",
+          "file": "content/objects/headphone.png"
+        },
+        {
+          "id": "iron",
+          "file": "content/objects/iron.png"
+        },
+        {
+          "id": "key",
+          "file": "content/objects/key.png"
+        },
+        {
+          "id": "knife",
+          "file": "content/objects/knife.png"
+        },
+        {
+          "id": "ladder",
+          "file": "content/objects/ladder.png"
+        },
+        {
+          "id": "lamp",
+          "file": "content/objects/lamp.png"
+        },
+        {
+          "id": "laptop",
+          "file": "content/objects/laptop.png"
+        },
+        {
+          "id": "letter",
+          "file": "content/objects/letter.png"
+        },
+        {
+          "id": "mask",
+          "file": "content/objects/mask.png"
+        },
+        {
+          "id": "mirror",
+          "file": "content/objects/mirror.png"
+        },
+        {
+          "id": "mobile",
+          "file": "content/objects/mobile.png"
+        },
+        {
+          "id": "money",
+          "file": "content/objects/money.png"
+        },
+        {
+          "id": "painting",
+          "file": "content/objects/painting.png"
+        },
+        {
+          "id": "pen",
+          "file": "content/objects/pen.png"
+        },
+        {
+          "id": "perfume",
+          "file": "content/objects/perfume.png"
+        },
+        {
+          "id": "pillow",
+          "file": "content/objects/pillow.png"
+        },
+        {
+          "id": "scissors",
+          "file": "content/objects/scissors.png"
+        },
+        {
+          "id": "screwdriver",
+          "file": "content/objects/screwdriver.png"
+        },
+        {
+          "id": "sewing_machine",
+          "file": "content/objects/sewing_machine.png"
+        },
+        {
+          "id": "shampoo",
+          "file": "content/objects/shampoo.png"
+        },
+        {
+          "id": "soap",
+          "file": "content/objects/soap.png"
+        },
+        {
+          "id": "sock",
+          "file": "content/objects/sock.png"
+        },
+        {
+          "id": "sofa",
+          "file": "content/objects/sofa.png"
+        },
+        {
+          "id": "spoon",
+          "file": "content/objects/spoon.png"
+        },
+        {
+          "id": "table",
+          "file": "content/objects/table.png"
+        },
+        {
+          "id": "teapot",
+          "file": "content/objects/teapot.png"
+        },
+        {
+          "id": "tent",
+          "file": "content/objects/tent.png"
+        },
+        {
+          "id": "tissue",
+          "file": "content/objects/tissue.png"
+        },
+        {
+          "id": "traffic_light",
+          "file": "content/objects/traffic_light.png"
+        },
+        {
+          "id": "trumpet",
+          "file": "content/objects/trumpet.png"
+        },
+        {
+          "id": "tv",
+          "file": "content/objects/tv.png"
+        },
+        {
+          "id": "umbrella",
+          "file": "content/objects/umbrella.png"
+        },
+        {
+          "id": "vacuum",
+          "file": "content/objects/vacuum.png"
+        },
+        {
+          "id": "vase",
+          "file": "content/objects/vase.png"
+        },
+        {
+          "id": "volleyball",
+          "file": "content/objects/volleyball.png"
+        },
+        {
+          "id": "wallet",
+          "file": "content/objects/wallet.png"
+        },
+        {
+          "id": "washing_machine",
+          "file": "content/objects/washing_machine.png"
+        },
+        {
+          "id": "window",
+          "file": "content/objects/window.png"
+        }
+      ]
+    },
+    {
       "id": "vehicles",
       "images": [
         {
-          "id": "vehicles_1",
-          "file": "content/vehicles/vehicles_1.png"
+          "id": "balloon",
+          "file": "content/vehicles/balloon.png"
         },
         {
-          "id": "vehicles_10",
-          "file": "content/vehicles/vehicles_10.png"
+          "id": "bicycle",
+          "file": "content/vehicles/bicycle.png"
         },
         {
-          "id": "vehicles_11",
-          "file": "content/vehicles/vehicles_11.png"
+          "id": "boat",
+          "file": "content/vehicles/boat.png"
         },
         {
-          "id": "vehicles_12",
-          "file": "content/vehicles/vehicles_12.png"
+          "id": "bus",
+          "file": "content/vehicles/bus.png"
         },
         {
-          "id": "vehicles_13",
-          "file": "content/vehicles/vehicles_13.png"
+          "id": "cable_car",
+          "file": "content/vehicles/cable_car.png"
         },
         {
-          "id": "vehicles_14",
-          "file": "content/vehicles/vehicles_14.png"
+          "id": "car",
+          "file": "content/vehicles/car.png"
         },
         {
-          "id": "vehicles_15",
-          "file": "content/vehicles/vehicles_15.png"
+          "id": "helicopter",
+          "file": "content/vehicles/helicopter.png"
         },
         {
-          "id": "vehicles_16",
-          "file": "content/vehicles/vehicles_16.png"
+          "id": "metro",
+          "file": "content/vehicles/metro.png"
         },
         {
-          "id": "vehicles_17",
-          "file": "content/vehicles/vehicles_17.png"
+          "id": "motorcycle",
+          "file": "content/vehicles/motorcycle.png"
         },
         {
-          "id": "vehicles_18",
-          "file": "content/vehicles/vehicles_18.png"
+          "id": "plane",
+          "file": "content/vehicles/plane.png"
         },
         {
-          "id": "vehicles_2",
-          "file": "content/vehicles/vehicles_2.png"
+          "id": "rocket",
+          "file": "content/vehicles/rocket.png"
         },
         {
-          "id": "vehicles_3",
-          "file": "content/vehicles/vehicles_3.png"
+          "id": "ship",
+          "file": "content/vehicles/ship.png"
         },
         {
-          "id": "vehicles_4",
-          "file": "content/vehicles/vehicles_4.png"
+          "id": "spaceship",
+          "file": "content/vehicles/spaceship.png"
         },
         {
-          "id": "vehicles_5",
-          "file": "content/vehicles/vehicles_5.png"
+          "id": "submarine",
+          "file": "content/vehicles/submarine.png"
         },
         {
-          "id": "vehicles_6",
-          "file": "content/vehicles/vehicles_6.png"
+          "id": "tractor",
+          "file": "content/vehicles/tractor.png"
         },
         {
-          "id": "vehicles_7",
-          "file": "content/vehicles/vehicles_7.png"
+          "id": "train",
+          "file": "content/vehicles/train.png"
         },
         {
-          "id": "vehicles_8",
-          "file": "content/vehicles/vehicles_8.png"
+          "id": "truck",
+          "file": "content/vehicles/truck.png"
         },
         {
-          "id": "vehicles_9",
-          "file": "content/vehicles/vehicles_9.png"
+          "id": "yacht",
+          "file": "content/vehicles/yacht.png"
         }
       ]
     }
