@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "locations": "أماكن",
+        "jobs": "وظائف"
+    },
+    "images": {
+        "beach": "شاطئ",
+        "school": "مدرسة",
+        "doctor": "طبيب"
+    }
+}

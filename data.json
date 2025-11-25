@@ -2,28 +2,20 @@
   "version": 1,
   "categories": [
     {
-      "id": 1,
-      "name": "Locations",
-      "enabled": true,
+      "id": "jobs",
       "images": [
         {
-          "name": "Beach",
-          "file": "images/beach.jpg"
-        },
-        {
-          "name": "School",
-          "file": "images/school.jpg"
+          "id": "doctor",
+          "file": "content/jobs/doctor.png"
         }
       ]
     },
     {
-      "id": 2,
-      "name": "Jobs",
-      "enabled": true,
+      "id": "locations",
       "images": [
         {
-          "name": "Doctor",
-          "file": "images/doctor.png"
+          "id": "school",
+          "file": "content/locations/school.jpg"
         }
       ]
     }
