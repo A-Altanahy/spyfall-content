@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": 1,
+      "name": "Locations",
+      "enabled": true,
+      "images": [
+        {
+          "name": "Beach",
+          "file": "images/beach.jpg"
+        },
+        {
+          "name": "School",
+          "file": "images/school.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jobs",
+      "enabled": true,
+      "images": [
+        {
+          "name": "Doctor",
+          "file": "images/doctor.png"
+        }
+      ]
+    }
+  ]
+}
