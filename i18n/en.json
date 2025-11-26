@@ -5,8 +5,7 @@
         "food": "Food",
         "animals": "Animals",
         "vehicles": "Vehicles",
-        "objects": "Objects",
-        "sahaba": "Sahaba"
+        "objects": "Objects"
     },
     "images": {
         "laptop": "Laptop",
@@ -166,10 +165,6 @@
         "car": "Car",
         "truck": "Truck",
         "yacht": "Yacht",
-        "doctor": "Doctor",
-        "abu_bakr": "Abu Bakr",
-        "umar": "Umar",
-        "uthman": "Uthman",
-        "ali": "Ali"
+        "doctor": "Doctor"
     }
 }

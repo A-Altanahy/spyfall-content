@@ -248,15 +248,6 @@
       ]
     },
     {
-      "id": "jobs",
-      "images": [
-        {
-          "id": "doctor",
-          "file": "content/jobs/doctor.png"
-        }
-      ]
-    },
-    {
       "id": "locations",
       "images": [
         {
